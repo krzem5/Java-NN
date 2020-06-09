@@ -1,4 +1,4 @@
-package com.krzem.nn;
+package com.krzem.NN;
 
 
 
