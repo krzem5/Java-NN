@@ -1,8 +1,8 @@
-import com.krzem.NN.NeuralNetwork;
+package com.krzem.NN;
 
 
 
-public class index{
+public class Main{
 	public static void main(String[] args){
 		NeuralNetwork nn=new NeuralNetwork(2,1,0.01);
 		// NeuralNetwork nn=NeuralNetwork.fromFile("./data.nn-data");
